@@ -1,0 +1,24 @@
+{
+  "name": "zuri_task-introduction_to_nodejs-task",
+  "version": "1.0.0",
+  "description": "this is my solution to the week 5 task:intro to node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ericwiz/Task-Title-Week-5-NodeJS-Task-Introduction-To-NodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "html",
+    "javascript"
+  ],
+  "author": "Agu Obumneme Wisdom (Ericwiz)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ericwiz/Task-Title-Week-5-NodeJS-Task-Introduction-To-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Ericwiz/Task-Title-Week-5-NodeJS-Task-Introduction-To-NodeJS#readme"
+}
